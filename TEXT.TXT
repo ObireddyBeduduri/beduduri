@@ -9,5 +9,3 @@ VARBINARY(size)	Equal to VARCHAR(), but stores binary byte strings. The size par
 TINYBLOB	For BLOBs (Binary Large Objects). Max length: 255 bytes
 
 
-BLOB(size)	For BLOBs (Binary Large Objects). Holds up to 65,535 bytes of data
-MEDIUMTEXT	Holds a string with a maximum length of 16,777,215 characters
