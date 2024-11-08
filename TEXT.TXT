@@ -8,6 +8,6 @@ MEDIUMTEXT	Holds a string with a maximum length of 16,777,215 charactersqual to 
 VARBINARY(size)	Equal to VARCHAR(), but stores binary byte strings. The size parameter specifies the maximum column length in bytes.
 TINYBLOB	For BLOBs (Binary Large Objects). Max length: 255 bytes
 
-TEXT(size)	Holds a string with a maximum length of 65,535 bytes
+
 BLOB(size)	For BLOBs (Binary Large Objects). Holds up to 65,535 bytes of data
 MEDIUMTEXT	Holds a string with a maximum length of 16,777,215 characters
